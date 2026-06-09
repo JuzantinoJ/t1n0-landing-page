@@ -3,15 +3,15 @@ import type { NavigationLink, SocialLink } from '../types/site';
 
 export const siteConfig = {
   companyName: 'T1N0.ai',
-  tagline: 'AI Consultancy — Automation and Growth',
-  motto: 'Remove Friction. Create Momentum.',
+  tagline: 'AI education and implementation for Singapore businesses',
+  motto: 'Understand first. Build with confidence.',
   email: 't1noai.sg@gmail.com',
   url: 'https://t1n0.ai',
   logoUrl,
   seo: {
     title: 'T1N0.ai | AI Workflow Automation Consultancy',
     description:
-      'T1N0.ai helps businesses remove workflow friction with practical AI systems, automation, custom assistants, and measurable operational improvements.',
+      'T1N0.ai helps Singapore businesses understand AI clearly, identify practical use cases, and build automation, custom assistants, and workflow systems with confidence.',
     keywords: [
       'AI workflow automation',
       'AI consultancy',

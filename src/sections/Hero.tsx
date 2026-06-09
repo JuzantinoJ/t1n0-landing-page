@@ -16,16 +16,16 @@ export const Hero = () => {
         <div>
           <p className="text-sm font-semibold uppercase tracking-[0.18em] text-brand-mint">{siteConfig.tagline}</p>
           <h1 className="mt-6 max-w-3xl font-heading text-5xl font-bold leading-[1.05] tracking-normal sm:text-6xl lg:text-7xl">
-            Remove Friction.
-            <span className="block text-brand-mint">Create Momentum.</span>
+            Understand AI before you automate.
+            <span className="block text-brand-mint">Then build what works.</span>
           </h1>
           <p className="mt-6 max-w-2xl text-lg leading-8 text-slate-300">
-            Practical AI systems, workflow automation, and custom assistants that help your team spend less time on manual work and more time making decisions.
+            For Singapore teams who feel unsure where to start, T1N0.ai explains the options, maps the workflow, and builds practical AI systems only where they make sense.
           </p>
           <div className="mt-9 flex flex-col gap-3 sm:flex-row">
-            <PrimaryButton href="#contact">Book a Workflow Audit</PrimaryButton>
+            <PrimaryButton href="#contact">Book a Clarity Call</PrimaryButton>
             <SecondaryButton href="#projects" className="border-white/20 bg-white/10 text-white hover:border-brand-mint hover:text-brand-mint">
-              View Projects
+              See Real Work
             </SecondaryButton>
           </div>
           <dl className="mt-12 grid max-w-2xl grid-cols-1 gap-4 sm:grid-cols-3">
