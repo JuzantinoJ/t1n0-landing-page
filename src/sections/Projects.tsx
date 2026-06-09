@@ -9,8 +9,8 @@ export const Projects = () => (
     <Container>
       <SectionHeader
         eyebrow="Featured AI implementation"
-        title="Implementation work that removes operational drag."
-        description="Selected work is shown only where T1N0.ai has supported practical AI, automation, or workflow implementation."
+        title="AI systems built into real e-commerce work."
+        description="Selected Jamal Kazura projects across Shopify operations, custom GPTs, scheduled research automation, reporting, and strategy support."
       />
       <AnimatedReveal className="mt-12 grid gap-6 lg:grid-cols-2">
         {projects.map((project) => (
