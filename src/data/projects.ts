@@ -38,32 +38,5 @@ export const projects: Project[] = [
       'Integrated payment and operations needs into the commerce workflow for cleaner cross-border business handling.',
     outcome: 'Improved payment visibility and smoother international transactions.',
     technologies: ['Airwallex', 'Payments', 'Workflow automation']
-  },
-  {
-    client: 'Singapore Calisthenics Academy',
-    industry: 'Education and fitness',
-    title: 'Website Revamp',
-    description:
-      'Modernised the website experience to make programmes, schedules, and enquiries easier to navigate.',
-    outcome: 'A cleaner digital front door built around student and parent decisions.',
-    technologies: ['React', 'UX design', 'Content structure']
-  },
-  {
-    client: 'Singapore Calisthenics Academy',
-    industry: 'Education and fitness',
-    title: 'Schedule Integration',
-    description:
-      'Improved how class schedules are surfaced and maintained so the team can reduce repetitive updates.',
-    outcome: 'More reliable schedule visibility with less administrative drag.',
-    technologies: ['Schedule systems', 'Automation', 'Operations']
-  },
-  {
-    client: 'Singapore Calisthenics Academy',
-    industry: 'Education and fitness',
-    title: 'Package Integration',
-    description:
-      'Connected package information into the customer journey so decisions are clearer before enquiry or purchase.',
-    outcome: 'Clearer programme selection and smoother enrolment conversations.',
-    technologies: ['Package logic', 'Website integration', 'Process design']
   }
 ];

@@ -8,9 +8,9 @@ export const Clients = () => (
   <section className="bg-brand-white py-20 sm:py-24" aria-labelledby="clients-heading">
     <Container>
       <SectionHeader
-        eyebrow="Trusted workflows"
-        title="Built for real teams with real operating constraints."
-        description="T1N0.ai focuses on workflow clarity, maintainability, and practical business outcomes across commerce, training, content, retail, and service operations."
+        eyebrow="Selected AI work"
+        title="Built around real operating constraints."
+        description="T1N0.ai focuses on workflow clarity, maintainability, and practical business outcomes for businesses ready to apply AI inside day-to-day operations."
       />
       <AnimatedReveal className="mt-12 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
         {clients.map((client) => (
