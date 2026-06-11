@@ -12,7 +12,7 @@ export const Projects = () => (
         title="AI systems built into real e-commerce work."
         description="Selected Jamal Kazura projects across Shopify operations, custom GPTs, scheduled research automation, reporting, and strategy support."
       />
-      <AnimatedReveal className="mt-12 grid gap-6 lg:grid-cols-2">
+      <AnimatedReveal className="mt-12 grid gap-6 lg:grid-cols-2" viewportAmount={0.05}>
         {projects.map((project) => (
           <ProjectCard key={`${project.client}-${project.title}`} project={project} />
         ))}
